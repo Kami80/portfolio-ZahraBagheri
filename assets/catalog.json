@@ -1,0 +1,1352 @@
+[
+  {
+    "project": "culture",
+    "name": "west-elevation",
+    "type": "drawing",
+    "title": "West elevation",
+    "note": "A low silhouette, articulated by the courtyard tree.",
+    "src": "assets/culture/west-elevation.png",
+    "width": 4253,
+    "height": 941,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "front-elevation",
+    "type": "drawing",
+    "title": "Front elevation",
+    "note": "Curved glazing meets the rhythm of a screened facade.",
+    "src": "assets/culture/front-elevation.png",
+    "width": 3827,
+    "height": 1234,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "arrival",
+    "type": "render",
+    "title": "The arrival",
+    "note": "A curved, glazed threshold welcomes visitors into the centre.",
+    "src": "assets/culture/arrival.png",
+    "width": 3765,
+    "height": 1500,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "side-view",
+    "type": "render",
+    "title": "Along the edge",
+    "note": "A sequence of vertical screens softens the boundary.",
+    "src": "assets/culture/side-view.png",
+    "width": 3765,
+    "height": 1500,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "aerial-original",
+    "type": "render",
+    "title": "Aerial perspective",
+    "note": "An organic arrangement of rooms around sheltered outdoor space.",
+    "src": "assets/culture/aerial-original.png",
+    "width": 3000,
+    "height": 1875,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "front-view",
+    "type": "render",
+    "title": "The public face",
+    "note": "The curved facade gives the centre a recognisable presence.",
+    "src": "assets/culture/front-view.png",
+    "width": 3770,
+    "height": 1500,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "courtyard",
+    "type": "render",
+    "title": "The courtyard",
+    "note": "A tree anchors an intimate space between the workshop wings.",
+    "src": "assets/culture/courtyard.png",
+    "width": 930,
+    "height": 913,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "workshop",
+    "type": "render",
+    "title": "The workshop",
+    "note": "A rooflight brings daylight into the teaching space.",
+    "src": "assets/culture/workshop.png",
+    "width": 1121,
+    "height": 831,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "landscape-plan",
+    "type": "drawing",
+    "title": "Landscape plan",
+    "note": "Paths, planted edges and water follow the organic plan.",
+    "src": "assets/culture/landscape-plan.png",
+    "width": 582,
+    "height": 782,
+    "source": {
+      "document": 1,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "early-study-01",
+    "type": "study",
+    "title": "First alternative / arrival",
+    "note": "An early investigation of entrance, mass and vertical elements.",
+    "src": "assets/school/early-study-01.png",
+    "width": 394,
+    "height": 262,
+    "source": {
+      "document": 2,
+      "page": 3,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "early-study-02",
+    "type": "study",
+    "title": "First alternative / facade",
+    "note": "Testing a more compact composition around a glazed centre.",
+    "src": "assets/school/early-study-02.png",
+    "width": 394,
+    "height": 278,
+    "source": {
+      "document": 2,
+      "page": 3,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "watercolour-aerial",
+    "type": "study",
+    "title": "Form in the landscape",
+    "note": "A softer rendering study explores how the wings meet the site.",
+    "src": "assets/school/watercolour-aerial.png",
+    "width": 3188,
+    "height": 1793,
+    "source": {
+      "document": 2,
+      "page": 5,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "watercolour-front",
+    "type": "study",
+    "title": "An early atmosphere",
+    "note": "Light surfaces and warm accents describe the school facade.",
+    "src": "assets/school/watercolour-front.png",
+    "width": 3200,
+    "height": 1800,
+    "source": {
+      "document": 2,
+      "page": 6,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "arrival",
+    "type": "render",
+    "title": "The school entrance",
+    "note": "An orange stair marks the point where the school meets its courtyard.",
+    "src": "assets/school/arrival.png",
+    "width": 3200,
+    "height": 1800,
+    "source": {
+      "document": 2,
+      "page": 7,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "aerial-east",
+    "type": "render",
+    "title": "The eastern approach",
+    "note": "The building opens outward into a generous planted setting.",
+    "src": "assets/school/aerial-east.png",
+    "width": 3200,
+    "height": 1800,
+    "source": {
+      "document": 2,
+      "page": 8,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "aerial-original",
+    "type": "render",
+    "title": "A view from above",
+    "note": "Distinct wings bring different learning spaces into one composition.",
+    "src": "assets/school/aerial-original.png",
+    "width": 3200,
+    "height": 1800,
+    "source": {
+      "document": 2,
+      "page": 9,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "school",
+    "name": "terrace-study",
+    "type": "study",
+    "title": "The terrace",
+    "note": "A study of the relationship between circulation and open air.",
+    "src": "assets/school/terrace-study.png",
+    "width": 3200,
+    "height": 1800,
+    "source": {
+      "document": 2,
+      "page": 10,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "dusk",
+    "type": "render",
+    "title": "At dusk",
+    "note": "Warm light gives the entrance a clear presence at the end of the day.",
+    "src": "assets/hospital/dusk.png",
+    "width": 1674,
+    "height": 942,
+    "source": {
+      "document": 3,
+      "page": 2,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "aerial-original",
+    "type": "render",
+    "title": "The main approach",
+    "note": "A long facade is broken into recognisable vertical elements.",
+    "src": "assets/hospital/aerial-original.png",
+    "width": 1922,
+    "height": 1081,
+    "source": {
+      "document": 3,
+      "page": 13,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "aerial-rear",
+    "type": "render",
+    "title": "The opposite edge",
+    "note": "A quieter facade reveals the depth of the clinical wings.",
+    "src": "assets/hospital/aerial-rear.png",
+    "width": 1922,
+    "height": 1082,
+    "source": {
+      "document": 3,
+      "page": 14,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "arrival",
+    "type": "render",
+    "title": "The main entrance",
+    "note": "Tall arches give the entrance a distinct scale and identity.",
+    "src": "assets/hospital/arrival.png",
+    "width": 1922,
+    "height": 1081,
+    "source": {
+      "document": 3,
+      "page": 15,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "rear-view",
+    "type": "render",
+    "title": "The clinical wing",
+    "note": "Repeated openings articulate the length of the building.",
+    "src": "assets/hospital/rear-view.png",
+    "width": 1921,
+    "height": 1081,
+    "source": {
+      "document": 3,
+      "page": 16,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "end-view",
+    "type": "render",
+    "title": "The narrow elevation",
+    "note": "An end view makes the depth and layering of the block visible.",
+    "src": "assets/hospital/end-view.png",
+    "width": 1922,
+    "height": 1081,
+    "source": {
+      "document": 3,
+      "page": 17,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "arched-facade",
+    "type": "render",
+    "title": "An arched rhythm",
+    "note": "Terracotta panels and pale green trims frame the tall recesses.",
+    "src": "assets/hospital/arched-facade.png",
+    "width": 1922,
+    "height": 1081,
+    "source": {
+      "document": 3,
+      "page": 18,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "west-elevation",
+    "type": "drawing",
+    "title": "West elevation",
+    "note": "The elevation records the rhythm of openings along the clinical wing.",
+    "src": "assets/hospital/west-elevation.png",
+    "width": 1923,
+    "height": 464,
+    "source": {
+      "document": 3,
+      "page": 19,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "east-elevation",
+    "type": "drawing",
+    "title": "East elevation",
+    "note": "The public facade brings the entrances and arches into one composition.",
+    "src": "assets/hospital/east-elevation.png",
+    "width": 1922,
+    "height": 1081,
+    "source": {
+      "document": 3,
+      "page": 20,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "south-elevation",
+    "type": "drawing",
+    "title": "South elevation",
+    "note": "A shorter elevation shows the relationship between the building volumes.",
+    "src": "assets/hospital/south-elevation.png",
+    "width": 1922,
+    "height": 1080,
+    "source": {
+      "document": 3,
+      "page": 21,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "north-elevation",
+    "type": "drawing",
+    "title": "North elevation",
+    "note": "The arched motif returns at the end of the building.",
+    "src": "assets/hospital/north-elevation.png",
+    "width": 1921,
+    "height": 1079,
+    "source": {
+      "document": 3,
+      "page": 22,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "reception",
+    "type": "render",
+    "title": "The reception",
+    "note": "A clear, light-filled waiting space marks the beginning of the interior journey.",
+    "src": "assets/hospital/reception.png",
+    "width": 1375,
+    "height": 786,
+    "source": {
+      "document": 3,
+      "page": 25,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "clinical-space",
+    "type": "render",
+    "title": "The clinical interior",
+    "note": "Daylight and pale finishes give the clinical spaces a calm visual character.",
+    "src": "assets/hospital/clinical-space.png",
+    "width": 1674,
+    "height": 942,
+    "source": {
+      "document": 3,
+      "page": 26,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "ward",
+    "type": "render",
+    "title": "The shared ward",
+    "note": "A study of daylight, equipment and the arrangement of beds.",
+    "src": "assets/hospital/ward.png",
+    "width": 1675,
+    "height": 943,
+    "source": {
+      "document": 3,
+      "page": 27,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "patient-room",
+    "type": "render",
+    "title": "The patient room",
+    "note": "A smaller room studies the relationship between beds, light and privacy.",
+    "src": "assets/hospital/patient-room.png",
+    "width": 1676,
+    "height": 943,
+    "source": {
+      "document": 3,
+      "page": 28,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "arrival",
+    "type": "render",
+    "title": "A street-facing presence",
+    "note": "Balconies, warm surfaces and planted terraces shape the street elevation.",
+    "src": "assets/housing/arrival.png",
+    "width": 1835,
+    "height": 1318,
+    "source": {
+      "document": 4,
+      "page": 1,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "section-perspective-bb",
+    "type": "render",
+    "title": "Section perspective / B–B",
+    "note": "A cut through the volume reveals the shared spaces within.",
+    "src": "assets/housing/section-perspective-bb.png",
+    "width": 1235,
+    "height": 875,
+    "source": {
+      "document": 4,
+      "page": 3,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "section-bb",
+    "type": "drawing",
+    "title": "Section / B–B",
+    "note": "The section describes how the floors meet the courtyard.",
+    "src": "assets/housing/section-bb.png",
+    "width": 1463,
+    "height": 686,
+    "source": {
+      "document": 4,
+      "page": 3,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "section-aa",
+    "type": "drawing",
+    "title": "Section / A–A",
+    "note": "Vertical circulation connects the different levels of the complex.",
+    "src": "assets/housing/section-aa.png",
+    "width": 1392,
+    "height": 983,
+    "source": {
+      "document": 4,
+      "page": 4,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "section-perspective-aa",
+    "type": "render",
+    "title": "Section perspective / A–A",
+    "note": "An inhabited cutaway makes the relationship between floors visible.",
+    "src": "assets/housing/section-perspective-aa.png",
+    "width": 949,
+    "height": 953,
+    "source": {
+      "document": 4,
+      "page": 4,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "north-elevation",
+    "type": "drawing",
+    "title": "North elevation",
+    "note": "A repeated balcony rhythm is interrupted by taller vertical elements.",
+    "src": "assets/housing/north-elevation.png",
+    "width": 1872,
+    "height": 985,
+    "source": {
+      "document": 4,
+      "page": 5,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "south-elevation",
+    "type": "drawing",
+    "title": "South elevation",
+    "note": "The opposite facade studies the balance between openings and solid surfaces.",
+    "src": "assets/housing/south-elevation.png",
+    "width": 1824,
+    "height": 973,
+    "source": {
+      "document": 4,
+      "page": 6,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "street-view",
+    "type": "render",
+    "title": "The approach",
+    "note": "The residential facade seen from the entrance to the site.",
+    "src": "assets/housing/street-view.png",
+    "width": 1920,
+    "height": 1080,
+    "source": {
+      "document": 4,
+      "page": 7,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "courtyard",
+    "type": "render",
+    "title": "At ground level",
+    "note": "A small courtyard brings water, planting and daily movement together.",
+    "src": "assets/housing/courtyard.png",
+    "width": 1920,
+    "height": 1080,
+    "source": {
+      "document": 4,
+      "page": 8,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "aerial-original",
+    "type": "render",
+    "title": "A landscape above",
+    "note": "Rooftop gardens extend the shared landscape across several levels.",
+    "src": "assets/housing/aerial-original.png",
+    "width": 1920,
+    "height": 1080,
+    "source": {
+      "document": 4,
+      "page": 9,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "site-outline",
+    "type": "drawing",
+    "title": "Site geometry",
+    "note": "The initial site outline establishes access and the building footprint.",
+    "src": "assets/housing/site-outline.png",
+    "width": 1132,
+    "height": 749,
+    "source": {
+      "document": 4,
+      "page": 10,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "site-plan",
+    "type": "drawing",
+    "title": "Site plan",
+    "note": "The plan brings the ground-floor spaces and landscape into one drawing.",
+    "src": "assets/housing/site-plan.png",
+    "width": 1239,
+    "height": 708,
+    "source": {
+      "document": 4,
+      "page": 10,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "landscape-render",
+    "type": "render",
+    "title": "Landscape from above",
+    "note": "A rendered plan studies the relationship between paths, terraces and planting.",
+    "src": "assets/housing/landscape-render.png",
+    "width": 1416,
+    "height": 728,
+    "source": {
+      "document": 4,
+      "page": 11,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "parking-render",
+    "type": "render",
+    "title": "Parking study",
+    "note": "A rendered view records vehicle access and parking organisation.",
+    "src": "assets/housing/parking-render.png",
+    "width": 1320,
+    "height": 776,
+    "source": {
+      "document": 4,
+      "page": 12,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "parking-plan",
+    "type": "drawing",
+    "title": "Parking plan",
+    "note": "Vehicle access is arranged around the building footprint.",
+    "src": "assets/housing/parking-plan.png",
+    "width": 1285,
+    "height": 645,
+    "source": {
+      "document": 4,
+      "page": 13,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "ground-plan",
+    "type": "drawing",
+    "title": "Ground-floor plan",
+    "note": "Shared spaces and access sit at the base of the residential levels.",
+    "src": "assets/housing/ground-plan.png",
+    "width": 1010,
+    "height": 617,
+    "source": {
+      "document": 4,
+      "page": 14,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "typical-plan",
+    "type": "drawing",
+    "title": "Typical residential floor",
+    "note": "A mix of unit layouts accommodates different household arrangements.",
+    "src": "assets/housing/typical-plan.png",
+    "width": 1065,
+    "height": 702,
+    "source": {
+      "document": 4,
+      "page": 15,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "typical-dimensioned",
+    "type": "drawing",
+    "title": "Typical floor / dimensioned",
+    "note": "A dimensioned version records the arrangement of the residential units.",
+    "src": "assets/housing/typical-dimensioned.png",
+    "width": 1132,
+    "height": 653,
+    "source": {
+      "document": 4,
+      "page": 16,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "fourth-floor",
+    "type": "drawing",
+    "title": "Fourth-floor plan",
+    "note": "Upper-level units explore a different relationship with the terraces.",
+    "src": "assets/housing/fourth-floor.png",
+    "width": 1047,
+    "height": 691,
+    "source": {
+      "document": 4,
+      "page": 17,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "fourth-dimensioned",
+    "type": "drawing",
+    "title": "Fourth floor / dimensioned",
+    "note": "The drawing makes the upper-level geometry explicit.",
+    "src": "assets/housing/fourth-dimensioned.png",
+    "width": 1077,
+    "height": 628,
+    "source": {
+      "document": 4,
+      "page": 18,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "fifth-dimensioned",
+    "type": "drawing",
+    "title": "Fifth floor / dimensioned",
+    "note": "The top level continues the study of flexible upper-floor units.",
+    "src": "assets/housing/fifth-dimensioned.png",
+    "width": 1023,
+    "height": 607,
+    "source": {
+      "document": 4,
+      "page": 19,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "fifth-floor",
+    "type": "drawing",
+    "title": "Fifth-floor plan",
+    "note": "A more open floor plate offers room for different ways of living.",
+    "src": "assets/housing/fifth-floor.png",
+    "width": 1017,
+    "height": 671,
+    "source": {
+      "document": 4,
+      "page": 20,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "inhabited-plan",
+    "type": "render",
+    "title": "An inhabited plan",
+    "note": "A rendered floor plan makes furniture, rooms and circulation legible.",
+    "src": "assets/housing/inhabited-plan.png",
+    "width": 1400,
+    "height": 848,
+    "source": {
+      "document": 4,
+      "page": 21,
+      "extraction": "embedded-image"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "workshop-plan",
+    "type": "drawing",
+    "title": "Workshop plan",
+    "note": "Small rooms gather around a shared, sheltered centre.",
+    "src": "assets/culture/workshop-plan.png",
+    "width": 847,
+    "height": 1232,
+    "source": {
+      "document": "001.pdf",
+      "page": 1,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "ground-plan",
+    "type": "drawing",
+    "title": "Ground-floor plan",
+    "note": "The plan records the relationship between rooms, access and shared space.",
+    "src": "assets/culture/ground-plan.png",
+    "width": 820,
+    "height": 1303,
+    "source": {
+      "document": "001.pdf",
+      "page": 1,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "first-floor",
+    "type": "drawing",
+    "title": "First-floor plan",
+    "note": "A further level develops the relationship between individual rooms and circulation.",
+    "src": "assets/culture/first-floor.png",
+    "width": 711,
+    "height": 1349,
+    "source": {
+      "document": "001.pdf",
+      "page": 1,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "second-floor",
+    "type": "drawing",
+    "title": "Second-floor plan",
+    "note": "The upper level continues the spatial organisation of the project.",
+    "src": "assets/culture/second-floor.png",
+    "width": 524,
+    "height": 878,
+    "source": {
+      "document": "001.pdf",
+      "page": 1,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "section-bb",
+    "type": "drawing",
+    "title": "Section / B–B",
+    "note": "A second section describes the building in the other direction.",
+    "src": "assets/culture/section-bb.png",
+    "width": 2192,
+    "height": 306,
+    "source": {
+      "document": "001.pdf",
+      "page": 1,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "section-aa",
+    "type": "drawing",
+    "title": "Section / A–A",
+    "note": "A cut through the building reveals the relationship between its levels.",
+    "src": "assets/culture/section-aa.png",
+    "width": 1628,
+    "height": 301,
+    "source": {
+      "document": "001.pdf",
+      "page": 1,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "site-plan",
+    "type": "drawing",
+    "title": "Site plan",
+    "note": "The footprint sits within its wider landscape and access routes.",
+    "src": "assets/school/site-plan.png",
+    "width": 981,
+    "height": 1233,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 11,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "basement-plan",
+    "type": "drawing",
+    "title": "Basement plan",
+    "note": "The lower level sets out the service and supporting spaces.",
+    "src": "assets/school/basement-plan.png",
+    "width": 915,
+    "height": 786,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 12,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "ground-plan",
+    "type": "drawing",
+    "title": "Ground-floor plan",
+    "note": "The plan records the relationship between rooms, access and shared space.",
+    "src": "assets/school/ground-plan.png",
+    "width": 1678,
+    "height": 1086,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 13,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "first-floor",
+    "type": "drawing",
+    "title": "First-floor plan",
+    "note": "A further level develops the relationship between individual rooms and circulation.",
+    "src": "assets/school/first-floor.png",
+    "width": 1622,
+    "height": 904,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 14,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "second-floor",
+    "type": "drawing",
+    "title": "Second-floor plan",
+    "note": "The upper level continues the spatial organisation of the project.",
+    "src": "assets/school/second-floor.png",
+    "width": 1698,
+    "height": 1058,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 15,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "section-aa",
+    "type": "drawing",
+    "title": "Section / A–A",
+    "note": "A cut through the building reveals the relationship between its levels.",
+    "src": "assets/school/section-aa.png",
+    "width": 1489,
+    "height": 580,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 16,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "section-bb",
+    "type": "drawing",
+    "title": "Section / B–B",
+    "note": "A second section describes the building in the other direction.",
+    "src": "assets/school/section-bb.png",
+    "width": 1627,
+    "height": 548,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 17,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "east-elevation",
+    "type": "drawing",
+    "title": "East elevation",
+    "note": "An orthographic study of the facade and its openings.",
+    "src": "assets/school/east-elevation.png",
+    "width": 986,
+    "height": 300,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 18,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "west-elevation",
+    "type": "drawing",
+    "title": "West elevation",
+    "note": "An orthographic study of the facade and its openings.",
+    "src": "assets/school/west-elevation.png",
+    "width": 774,
+    "height": 340,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 19,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "south-elevation",
+    "type": "drawing",
+    "title": "South elevation",
+    "note": "An orthographic study of the facade and its openings.",
+    "src": "assets/school/south-elevation.png",
+    "width": 1179,
+    "height": 341,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 20,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "north-elevation",
+    "type": "drawing",
+    "title": "North elevation",
+    "note": "An orthographic study of the facade and its openings.",
+    "src": "assets/school/north-elevation.png",
+    "width": 1416,
+    "height": 354,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 21,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "interior-study-01",
+    "type": "drawing",
+    "title": "Interior perspective / corridor",
+    "note": "A line drawing studies the experience of moving through the school.",
+    "src": "assets/school/interior-study-01.png",
+    "width": 1380,
+    "height": 973,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 22,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "school",
+    "name": "interior-study-02",
+    "type": "drawing",
+    "title": "Interior perspective / room",
+    "note": "A perspective drawing explores scale and the use of an interior space.",
+    "src": "assets/school/interior-study-02.png",
+    "width": 1716,
+    "height": 1222,
+    "source": {
+      "document": "20250822-033556-250142_Merge_824641.pdf",
+      "page": 23,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "site-plan",
+    "type": "drawing",
+    "title": "Site plan",
+    "note": "The footprint sits within its wider landscape and access routes.",
+    "src": "assets/hospital/site-plan.png",
+    "width": 1864,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 3,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "ground-dimensioned",
+    "type": "drawing",
+    "title": "ground dimensioned",
+    "note": "A dimensioned drawing records the design in plan.",
+    "src": "assets/hospital/ground-dimensioned.png",
+    "width": 1537,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 4,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "first-dimensioned",
+    "type": "drawing",
+    "title": "first dimensioned",
+    "note": "A dimensioned drawing records the design in plan.",
+    "src": "assets/hospital/first-dimensioned.png",
+    "width": 1538,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 5,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "second-dimensioned",
+    "type": "drawing",
+    "title": "second dimensioned",
+    "note": "A dimensioned drawing records the design in plan.",
+    "src": "assets/hospital/second-dimensioned.png",
+    "width": 1540,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 6,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "basement-dimensioned",
+    "type": "drawing",
+    "title": "basement dimensioned",
+    "note": "A dimensioned drawing records the design in plan.",
+    "src": "assets/hospital/basement-dimensioned.png",
+    "width": 1519,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 7,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "basement-plan",
+    "type": "drawing",
+    "title": "Basement plan",
+    "note": "The lower level sets out the service and supporting spaces.",
+    "src": "assets/hospital/basement-plan.png",
+    "width": 1458,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 8,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "ground-plan",
+    "type": "drawing",
+    "title": "Ground-floor plan",
+    "note": "The plan records the relationship between rooms, access and shared space.",
+    "src": "assets/hospital/ground-plan.png",
+    "width": 1458,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 9,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "first-floor",
+    "type": "drawing",
+    "title": "First-floor plan",
+    "note": "A further level develops the relationship between individual rooms and circulation.",
+    "src": "assets/hospital/first-floor.png",
+    "width": 1458,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 10,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "second-floor",
+    "type": "drawing",
+    "title": "Second-floor plan",
+    "note": "The upper level continues the spatial organisation of the project.",
+    "src": "assets/hospital/second-floor.png",
+    "width": 1458,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 11,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "third-floor",
+    "type": "drawing",
+    "title": "Third-floor plan",
+    "note": "The upper clinical floor continues the sequence of rooms and circulation.",
+    "src": "assets/hospital/third-floor.png",
+    "width": 1458,
+    "height": 1131,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 12,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "section-aa",
+    "type": "drawing",
+    "title": "Section / A–A",
+    "note": "A cut through the building reveals the relationship between its levels.",
+    "src": "assets/hospital/section-aa.png",
+    "width": 1926,
+    "height": 513,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 23,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "section-bb",
+    "type": "drawing",
+    "title": "Section / B–B",
+    "note": "A second section describes the building in the other direction.",
+    "src": "assets/hospital/section-bb.png",
+    "width": 1244,
+    "height": 452,
+    "source": {
+      "document": "Zahra bageri.pdf",
+      "page": 24,
+      "extraction": "native-vector-render"
+    }
+  },
+  {
+    "project": "culture",
+    "name": "cutout",
+    "type": "study",
+    "title": "Perspective / silhouette",
+    "note": "A presentation cutout of the building, isolated from the rendered setting.",
+    "src": "assets/culture/cutout.png",
+    "width": 1586,
+    "height": 992,
+    "source": {
+      "extraction": "background-removal",
+      "original": "aerial-original.png",
+      "tool": "built-in image_gen"
+    }
+  },
+  {
+    "project": "school",
+    "name": "cutout",
+    "type": "study",
+    "title": "Perspective / silhouette",
+    "note": "A presentation cutout of the building, isolated from the rendered setting.",
+    "src": "assets/school/cutout.png",
+    "width": 1672,
+    "height": 941,
+    "source": {
+      "extraction": "background-removal",
+      "original": "aerial-original.png",
+      "tool": "built-in image_gen"
+    }
+  },
+  {
+    "project": "hospital",
+    "name": "cutout",
+    "type": "study",
+    "title": "Perspective / silhouette",
+    "note": "A presentation cutout of the building, isolated from the rendered setting.",
+    "src": "assets/hospital/cutout.png",
+    "width": 1800,
+    "height": 651,
+    "source": {
+      "extraction": "background-removal",
+      "original": "aerial-original.png",
+      "tool": "built-in image_gen"
+    }
+  },
+  {
+    "project": "housing",
+    "name": "cutout",
+    "type": "study",
+    "title": "Perspective / silhouette",
+    "note": "A presentation cutout of the building, isolated from the rendered setting.",
+    "src": "assets/housing/cutout.png",
+    "width": 1672,
+    "height": 941,
+    "source": {
+      "extraction": "background-removal",
+      "original": "aerial-original.png",
+      "tool": "built-in image_gen"
+    }
+  }
+]
